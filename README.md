@@ -35,3 +35,7 @@ Of course! But please try to stay on topic to the specific bug report, so contri
 ### Can I email you instead?
 
 I'd prefer we started the conversation here but if that's not possible or you need to send me sensitive data then please reach out to me at m4ttcheetham+zeddy@gmail.com
+
+### I want to translate Zeddy into another language / I found an incorrect translation
+
+Zeddy is translated by the community. You can submit pull requests over [here](https://github.com/MattCheetham/zeddy-localization).

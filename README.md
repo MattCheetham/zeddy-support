@@ -1,4 +1,7 @@
-![Zeddy Logo](zeddy.png "Zeddy Logo")
+<p align="center">
+  <img src="zeddy.png" width=200 alt="Zeddy Logo"/>
+</p>
+
 # Zeddy Bug & Feature Request Tracker 🐛
 
 This is a bug and feature request tracker for known issues and ongoing requests with [Zeddy](https://apps.apple.com/gb/app/zeddy/id1451295003), so if you have a bug to report or a feature you would like to request, you can check the "Issues" tab to see if it's been reported before. Some bugs are out of my control to fix but some I can definitely help with, so please do report them.
